@@ -2,10 +2,11 @@
   <img src="https://media.discordapp.net/attachments/774734848300285982/792400622187708446/unknown.png">
 </h1>
 
-
 ![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Ilan24&show_icons=true&theme=radical&lang=FR)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan24&layout=compact&lang=FR)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ilan24)
 
 ## 👋 Informations :
 
@@ -19,4 +20,3 @@
 
 - [Vemon's Support](https://discord.gg/invite/JNHqUmmp9u)
 - [Server Commnunity](https://discord.gg/invite/md89jWc)
-###
