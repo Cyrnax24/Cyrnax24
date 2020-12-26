@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan24&layout=compact&lang=FR)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ilan24)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 ## 👋 Informations :
 
