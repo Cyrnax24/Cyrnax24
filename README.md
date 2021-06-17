@@ -1,4 +1,4 @@
-<a href=""><img src="https://discord.c99.nl/widget/theme-1/629410780584083456.png" alt="rien"/></a>
+<a href=""><img src="https://discord.c99.nl/widget/theme-3/629410780584083456.png" alt="rien"/></a>
 
 ![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Cyrnax24&show_icons=true&theme=radical&lang=FR)
 
