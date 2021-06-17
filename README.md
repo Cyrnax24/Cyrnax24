@@ -22,3 +22,5 @@
 - [Vemon's Bot List](https://top.gg/bot/774704496399220756)
 - [Krypto's Support](https://discord.gg/invite/GXmEpqK6Ht)
 - [Server Commnunity](https://discord.gg/invite/md89jWc)
+
+<iframe src="https://discord.com/widget?id=670988997560107016&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
