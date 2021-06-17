@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrnax24&layout=compact&lang=FR)
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Cyrnax24&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 [![discord](https://discord.com/api/guilds/670988997560107016/widget.png)](https://discord.gg/AaucX7B6xB)
 
