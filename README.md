@@ -6,7 +6,7 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
-[![discord](<iframe src="https://discord.com/widget?id=670988997560107016&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>))](https://discord.gg/AaucX7B6xB)
+[![discord](https://discord.com/api/guilds/670988997560107016/widget.png)](https://discord.gg/AaucX7B6xB)
 
 ## 👋 Informations :
 
