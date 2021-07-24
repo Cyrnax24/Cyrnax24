@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/reD2evz" align="center" /></a>
+   <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/reD2evz.png" align="center" /></a>
 </div>
 
 ## `🔎` Profile : 
