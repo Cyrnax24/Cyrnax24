@@ -2,9 +2,8 @@
 
 ![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Cyrnax24&show_icons=true&theme=radical&lang=FR)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrnax24&layout=compact&lang=FR)
-
-[![discord](https://discord.com/api/guilds/670988997560107016/widget.png)](https://discord.gg/AaucX7B6xB)
+## `🔎` Profile : 
+https://cyrnax24.github.io/
 
 ## 👋 Informations :
 
