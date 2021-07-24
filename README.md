@@ -3,7 +3,7 @@
 ![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Cyrnax24&show_icons=true&theme=radical&lang=FR)
 
 ## `🔎` Profile : 
-https://cyrnax24.github.io/
+https://cyrnax24.github.io/index.html
 
 ## 👋 Informations :
 
@@ -13,7 +13,7 @@ https://cyrnax24.github.io/
 - Staff [Développement-Community](@Development-Community),
 - I'm the owner of the bot Vemon, Krypto and Server Commnunity.
    
-## 🚀 Others Links :
+## `🚀` Others Links :
 
 - [Vemon's Support](https://discord.gg/invite/JNHqUmmp9u)
 - [Vemon's Bot List](https://top.gg/bot/774704496399220756)
