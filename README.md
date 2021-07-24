@@ -1,9 +1,6 @@
-<a href=""><img src="https://discord.c99.nl/widget/theme-3/629410780584083456.png" alt=""/></a>
-
-![Profile GitHub Statistiques](https://github-readme-stats.vercel.app/api?username=Cyrnax24&show_icons=true&theme=radical&lang=FR)
+https://cyrnax24.github.io/profile
 
 ## `🔎` Profile : 
-https://cyrnax24.github.io/profile
 
 - 👋 Hi, I’m @Cyrnax24.
 - 👀 I’m interested in devolpment and moderation in Discord.
