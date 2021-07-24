@@ -1,8 +1,8 @@
+## `🔎` Profile : 
+
 <div align="center">
    <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/reD2evz.png" align="center" /></a>
 </div>
-
-## `🔎` Profile : 
 
 - 👋 Hi, I’m @Cyrnax24.
 - 👀 I’m interested in development and moderation in Discord.
