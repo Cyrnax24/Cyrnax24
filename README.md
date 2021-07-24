@@ -3,7 +3,7 @@ https://cyrnax24.github.io/profile
 ## `🔎` Profile : 
 
 - 👋 Hi, I’m @Cyrnax24.
-- 👀 I’m interested in devolpment and moderation in Discord.
+- 👀 I’m interested in development and moderation in Discord.
 - 🌱 I’m currently learning nothing.
 - 💞️ I'm working on Protect & Development-Community.
 - 📫 Member of MMC (Moderator MentorShip Community).
