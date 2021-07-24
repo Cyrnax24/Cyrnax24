@@ -14,5 +14,3 @@
 
 - [Vemon's Support](https://discord.gg/invite/JNHqUmmp9u)
 - [Vemon's Bot List](https://top.gg/bot/774704496399220756)
-- [Development Community](https://discord.com/invite/AaucX7B6xB)
-- [Protect](https://discord.com/invite/W4z3843KFv)
