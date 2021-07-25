@@ -7,7 +7,7 @@
 - 👋 Hi, I’m @Cyrnax24.
 - 👀 I’m interested in development and moderation in Discord.
 - 🌱 I’m currently learning nothing.
-- 💞️ I'm working on Protect & Development-Community.
+- 💞️ I'm working on Protect, Development-Community & many other servers.
 - 📫 Member of MMC (Moderator MentorShip Community).
    
 ## `🚀` Links :
