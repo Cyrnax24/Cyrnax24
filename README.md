@@ -1,7 +1,7 @@
 ## `🔎` Profile : 
 
 <div align="center">
-   <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/7GCmlaZ.png" align="center" /></a>
+   <a href="https://cyrnax24.github.io/profile" target="_blank"><img src="https://imgur.com/EoYG7ej" align="center" /></a>
 </div>
 
 - 👋 Hi, I’m @Cyrnax24.
@@ -12,6 +12,7 @@
 - 💞️ I'm working on Protect, Development-Community & many other servers.
 - 📫 Member of MMC (Moderator MentorShip Community).
 - 🛠️ Moderator at Night-Group (API) 
+- 🛠️ Moderator at Larzizes 
 
 ## `🚀` Links :
 
@@ -19,3 +20,5 @@
 - [Development Community](https://discord.gg/AaucX7B6xB)
 - [Night Group](https://discord.gg/mA2jYvQyv6)
 - [Night Group API](https://night-api.com/)
+- [Larzize](https://discord.gg/yFDzwdAq)
+- [P2N Bot](https://discord.com/invite/w5NCQPy6sT)
