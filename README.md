@@ -1,7 +1,7 @@
 ## `🔎` Profile : 
 
 <div align="center">
-   <a href="https://cyrnax24.github.io" target="_blank"><img src="https://i.imgur.com/KUccnQI.png" align="center" /></a>
+   <a href="https://cyrnax24.github.io" target="_blank"><img src="https://i.imgur.com/aI8TZNo.png" align="center" /></a>
 </div>
 
 - 👋 Hi, I’m @Cyrnax24.
