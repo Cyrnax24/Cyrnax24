@@ -10,15 +10,12 @@
 - 👨‍💻 I'm a developer.
 - 🌱 I’m currently learning HTML/CSS.
 - 💞️ I'm working on Protect, Development-Community & many other servers.
-- 📫 Member of MMC (Moderator MentorShip Community).
-- 🛠️ Moderator at Night-Group (API) 
-- 🛠️ Moderator at Larzizes 
+- 📫 Member of DMA (Discord Moderator Academy).
+- 🛠️ Owner at Night-Group (API) 
 
 ## `🚀` Links :
 
-- [Protect's Support](https://discord.gg/xgKajWudy8)
+- [Protect's Support](https://discord.gg/5C8Bg8CeMf)
 - [Development Community](https://discord.gg/AaucX7B6xB)
-- [Night Group](https://discord.gg/mA2jYvQyv6)
-- [Night Group API](https://night-api.com/)
-- [Larzize](https://discord.gg/yFDzwdAq)
 - [P2N Bot](https://discord.com/invite/w5NCQPy6sT)
+- [Moderation Programs](https://discord.com/moderation)
